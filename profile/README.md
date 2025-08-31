@@ -8,7 +8,7 @@
 # *Lighting the Way in Programming*
 <div align="center">
   
-[![Contributors](https://img.shields.io/github/contributors/The-Lumen-Project/Lumen?style=flat&color=FFCE50&labelColor=222222)](https://github.com/The-Lumen-Project/Lumen/graphs/contributors?)
+[![Contributors](https://img.shields.io/github/contributors/The-Lumen-Project/Lumen?style=flat&color=FFCE50&labelColor=222222)](https://github.com/The-Lumen-Project/Lumen/graphs/contributors)
 [![License](https://img.shields.io/badge/License-GPLv3-FFCE50?style=flat&labelColor=222222)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![Followers](https://img.shields.io/github/followers/The-Lumen-Project?style=flat&color=FFCE50&labelColor=222222)](https://github.com/The-Lumen-Project?tab=followers)
 
